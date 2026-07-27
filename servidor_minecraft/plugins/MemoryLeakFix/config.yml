@@ -1,0 +1,4 @@
+ram-threshold-mb: 500  # 500 MB
+cpu-threshold-percent: 80  # 80%
+check-interval: 60  # 60 seconds
+background-spy: false  # Set to true to enable background usage logging
